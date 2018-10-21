@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Inter-UI-Regular';
+  src: url('inter-ui-regular.eot');
+  src: url('inter-ui-regular.woff2') format('woff2'),
+       url('inter-ui-regular.eot?#iefix') format('embedded-opentype'),
+       url('interui-regular.woff') format('woff'),
+       url('interui-regular.ttf') format('truetype'),
+       url('interui-regular.svg#interui-regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
